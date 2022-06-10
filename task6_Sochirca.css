@@ -1,0 +1,20 @@
+div{
+    margin-left: 35%;
+}
+
+button{
+    border: 1px solid black;
+    height: 60px;
+    width: 60px;
+    font-size: 100%;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+input{
+    border: 1px solid black;
+    height: 55px;
+    width: 100px;
+    font-size: 110%;
+    text-align: center;
+}
